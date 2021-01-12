@@ -1,3 +1,8 @@
+# Tinder Clone
+Tinder Clone built with React.js and Firebase utilizing the MERN stack. 
+
+![Alt text](/tinder.JPG?raw=true "Tinder")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
